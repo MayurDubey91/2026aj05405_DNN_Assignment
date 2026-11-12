@@ -1,0 +1,9 @@
+# Generated samples (500 characters each)
+# Temperature 0.2
+[to be filled after training]
+
+# Temperature 0.8
+[to be filled after training]
+
+# Temperature 1.5
+[to be filled after training]
